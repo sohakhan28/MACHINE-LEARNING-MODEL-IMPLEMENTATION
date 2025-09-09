@@ -16,3 +16,4 @@ This project demonstrates spam detection using Python and scikit-learn. A datase
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/65757b9b-b80a-4cf2-99ee-956131ca3ef3)
